@@ -26,7 +26,13 @@ for (var spalte = 0; spalte < data[0].length; spalte++) {
                 label: header,
                 data: data_temp,
                 borderWidth: 1,
-                pointRadius: 0
+                pointRadius: 0,
+                trendlineLinear: {
+                    colorMin: "red",
+                    colorMax: "red",
+                    lineStyle: "solid",
+                    width: 2,
+                }
             }]
         },
     });
