@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <title>Plant Grow Optimizer Datavisulizer</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="data.js"></script>
+</head>
+<body>
+<div style="text-align: center; margin-top: 2rem;">
+    <h1>Datavisualizer</h1>
+    <p></p>
+</div>
+
+<div class="input-group" style="text-align: center; visibility: hidden">
+    <div class="col-12">
+        <input id="fileUpload" type="file" class="inputfile" style="visibility: hidden">
+    </div>
+    <div class="col-12">
+        <button type="button" class="btn btn-primary">
+            <label for="fileUpload" style="cursor: pointer">File Upload</label>
+        </button>
+    </div>
+</div>
+<div>
+    <div class="row justify-content-center" style="margin-top: 2rem ">
+        <div class="col-5" style="margin-right: 2rem">
+            <div class="card">
+                <canvas id="0"></canvas>
+            </div>
+        </div>
+        <div class="col-5">
+            <div class="card">
+                <canvas id="1"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center" style="margin-top: 2rem">
+        <div class="col-5" style="margin-right: 2rem">
+            <div class="card">
+                <canvas id="2"></canvas>
+            </div>
+        </div>
+        <div class="col-5">
+            <div class="card">
+                <canvas id="3"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center" style="margin-top: 2rem">
+        <div class="col-5" style="margin-right: 2rem">
+            <div class="card">
+                <canvas id="4"></canvas>
+            </div>
+        </div>
+        <div class="col-5">
+            <div class="card">
+                <canvas id="5"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="finn.js" defer></script>
+</body>
+</html>
