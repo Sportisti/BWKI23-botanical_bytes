@@ -1,6 +1,7 @@
 # BWKI23-botanical_bytes
 Unser Code für den "Bundeswettbewerb Künstliche Intelligenz"
-Hier finden sie ebenfalls noch unsere Data Visulizer [Webseite](https://hou-mea.com/dataVisualizer/main.html)
+Hier finden sie ebenfalls noch unsere Data Visulizer [Webseite](https://hou-mea.com/dataVisualizer/main.html). 
+Dieser zeigt aktuell einen Wachstumszyklus in Grafischer ansicht um einen besseren überblick zu erhalten.
 (Falls die verlinkung nicht tuen sollte https://hou-mea.com/dataVisualizer/main.html)
 
 
