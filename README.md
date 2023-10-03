@@ -24,5 +24,5 @@ Diese beiden Bilder zeigen ausgewachsende Kresse zum vergleichen
 ![Kresse Ausgewachsen Nahaufnahme](/Bilder%20des%20Wachstums/Nahaufnahme%20Kresse.jpeg "Kresse Ausgewachsen Nahaufnahme")
 
 Anschließend Wogen wir den ertrag und notierten uns die Ergebnisse (Bild Eins = Radies; Bild Zwei = Kresse)
-![Abwiegen des Ertrags 1](/Bilder%20des%20Wachstums/Abwieden%20des%20Ertrags%201.jpeg "Ertrags messung")
-![Abwiegen des Ertrags 2](/Bilder%20des%20Wachstums/Abwieden%20des%20Ertrags%202.jpeg "Ertrags messung")
+![Abwiegen des Ertrags 1](/Bilder%20des%20Wachstums/Abwiegen%20des%20Ertrags%201.jpeg "Ertrags messung")
+![Abwiegen des Ertrags 2](/Bilder%20des%20Wachstums/Abwiegen%20des%20Ertrags%202.jpeg "Ertrags messung")
