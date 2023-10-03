@@ -1,5 +1,8 @@
 # BWKI23-botanical_bytes
-Our code for the "Bundeswettbewerb Künstliche Intelligenz"
+Unser Code für den "Bundeswettbewerb Künstliche Intelligenz"
+Hier finden sie ebenfalls noch unsere Data Visulizer [Webseite](https://hou-mea.com/dataVisualizer/main.html)
+(Falls die verlinkung nicht tuen sollte https://hou-mea.com/dataVisualizer/main.html)
+
 
 ## Ablauf einer Wachstumszyklus messung:
 Wir beganne immmer damit 10g Samen ab zu wiegen damit wir einen Einheitlichen vergleich gewährleisten konnten.
